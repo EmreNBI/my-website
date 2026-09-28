@@ -1,0 +1,3 @@
+There (probably) will be content in signal processing, outdated functions...
+Physics & real world simulation software
+Copycats of certain youtubers' Schroedinger Eqn simulations?
